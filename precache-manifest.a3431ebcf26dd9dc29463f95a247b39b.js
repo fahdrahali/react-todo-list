@@ -32,12 +32,12 @@ self.__precacheManifest = [
     "url": "/react-todo-list.git/static/media/fontawesome-webfont.e6cf7c6e.woff2"
   },
   {
-    "revision": "1dc35d25e61d819a9c357074014867ab",
-    "url": "/react-todo-list.git/static/media/fontawesome-webfont.1dc35d25.ttf"
-  },
-  {
     "revision": "c8ddf1e5e5bf3682bc7bebf30f394148",
     "url": "/react-todo-list.git/static/media/fontawesome-webfont.c8ddf1e5.woff"
+  },
+  {
+    "revision": "1dc35d25e61d819a9c357074014867ab",
+    "url": "/react-todo-list.git/static/media/fontawesome-webfont.1dc35d25.ttf"
   },
   {
     "revision": "d7c639084f684d66a1bc66855d193ed8",
